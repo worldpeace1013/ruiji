@@ -1,0 +1,7 @@
+package com.hyh.ruiji.Service;
+
+import com.baomidou.mybatisplus.extension.service.IService;
+import com.hyh.ruiji.pojo.DishFlavor;
+
+public interface DishFlavorService extends IService<DishFlavor> {
+}
